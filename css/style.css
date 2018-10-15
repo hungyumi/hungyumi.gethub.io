@@ -1,0 +1,415 @@
+
+.home1 .home .a1 ul{
+   
+}
+body {
+    font-family: 'Oswald', sans-serif;
+}
+.home{
+ background: url(../img/Vinfast_SUV34fronte_Composite_defedit.jpg);
+ min-height: 100vh;
+ background-size: cover;
+ background-attachment: fixed;
+}
+header {
+    background:black;
+}
+header .logo {
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+header nav {
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+    margin-top: 12px;
+}
+header nav ul {
+    list-style-type: none;
+    padding: 0 200px;
+    text-align: right;
+}
+header nav ul li {
+    display: inline-block;
+}
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    padding: 2rem;
+}
+header nav ul li a:hover{
+    color: red;
+}
+main .a1 h1 {
+    color: red;
+    margin-left: 5rem;
+    padding-top: 10rem;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+main .a1 p {
+    color: white;
+    font-size: 30px;
+    padding: 12rem;
+    margin-top: -11rem;
+    margin-left: -7rem;
+    opacity: 0.4;
+    font-family: 'Oswald', sans-serif;
+}
+/*home*/
+.home2 {
+    background: white;
+    min-height:100vh;
+    background-size: cover;
+    margin: 0;
+}
+.home2 .lo {
+    margin-left: 40rem
+}
+.home2 .lo p {
+    margin-left: -2rem;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color:red;
+}
+.home2 .b2 {
+    margin-left: 1rem;
+    padding: 7rem;
+    margin-top: -7rem;
+}
+.home2 .b3 ul {
+    list-style-type: none;
+    /* padding: 1rem; */
+    margin-top: -16rem;
+    margin-left: 7rem;
+}
+.home2 .b3 ul li {
+display: inline-block;
+padding: 0 4px;
+text-align: center;
+}
+.home2 .b3 ul li p {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 6rem;
+
+}
+.home2 ul li p:hover{
+    color:red;
+}
+.home2 .b4{
+list-style: none;
+text-align: center;
+}
+/*trang3*/
+.home3 {
+    background:url(../img/43823353_1836854223049858_6316806258485624832_n.png);
+    min-height:100vh;
+    background-size: cover;
+    opacity: o.5;
+}
+.home3 .ho ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    }
+    .home3 .ho ul li {
+    display: inline-block;
+
+    }
+    .home3 .ho ul li h4{
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .home3 .ho ul li h4:hover{
+    color: orange;
+    }
+    .home3 .ho ul li p {
+        padding: 0 5rem;
+        margin-top: 1rem;
+        color:white;
+        font-family: 'Oswald', sans-serif;
+        opacity: 0.5;
+    }
+    .home3 .ho ul li h4 {
+        margin-top: -1.2rem;
+        font-family: 'Oswald', sans-serif;
+    }
+    .home3 .hung {
+        margin-left: 16rem;
+        margin-top: 6rem;
+    }
+    .home3 .le {
+        color: white;
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Oswald', sans-serif;
+        margin-top: 2rem;
+    }
+    .home3 .viet {
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 1rem;
+        font-family: 'Oswald', sans-serif;
+        opacity: 0.5;
+    }
+    .home3 .b4{
+     text-align: center;
+     margin-top: 2rem;
+     padding: 0 3rem;
+     }
+
+/*home4*/
+.home4 {
+    background:#e9ecef;
+    min-height: 100vh;
+    background-size: cover;
+}
+.home4 p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.carousel-item img{
+    float: left;
+    Border-radius:10%;
+}
+.carousel-item .info {
+    float: left;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 8rem;
+    margin-left: 7rem;
+}
+.carousel-item .info h1{
+    color: red;
+    font-size: 58px;
+}
+.carousel-item .info hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 4px solid #f8f9fa;
+}
+.carousel-item .info p {
+    font-size: 25px;
+}
+.carousel-item .info p:hover{
+    color:red;
+    opacity: 0.7;
+}
+
+
+}
+.home4 . hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 4px solid #dc3545;
+    max-width: 100px;
+}
+.home4 .c6{
+    text-align: center;
+    margin-top: 4rem;
+}
+.home4 .g2 {
+    bottom: -100px;
+}
+/*home5*/
+.home5 {
+    background:black;
+    min-height:100vh;
+    background-size: cover;
+}
+.home5 .img {
+    margin-top: 5rem;
+    margin-left: 48rem;
+}
+.home5 .cuong h1 {
+    color: red;
+    margin-left: 19rem;
+    padding-top: -25rem;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: -11rem;
+    opacity: 0.7;
+    font-family: 'Oswald', sans-serif;
+}
+.home5 .cuong p {
+    color: white;
+    font-size: 30px;
+    padding: 12rem;
+    margin-top: -12rem;
+    margin-left: 7rem;
+    opacity: 0.4;
+    font-family: 'Oswald', sans-serif;
+}
+.home5 img:hover{
+    color: red;
+    opacity: 0.5;
+}
+.home5 hr {
+    margin-left: 19rem;
+    margin-top: -27rem;
+    margin-bottom: 10rem;
+    border: 5;
+    border-top: 2px solid #991723;
+    max-width: 100px;
+    padding: 0 6rem;
+}
+.home5 hr:hover{
+    color: red;
+}
+/* home7*/
+.home6 {
+    background: white;
+    min-height: 100vh;
+    background-size: cover;
+}
+.home6 .hehe h1 {
+    margin-left: -2rem;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color : black;
+    text-align: center;
+    margin-top: -6rem;
+}
+.home6 .hehe p {
+    text-align: center;
+    color: black;
+    opacity: 0.5;
+    font-family: 'Oswald', sans-serif;
+
+}
+.home6 .hihi nav ul li h2 {
+    font-size: 22px;
+    margin-top: 3rem;
+
+}
+.home6 .hihi nav ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-left: -3rem;
+}
+.home6 .hihi nav ul li {
+    display: inline-block;
+    padding: 52px 40px;
+}
+.home6 .hihi nav ul li img:hover{
+    color: red;
+    opacity: 0.5;
+}
+.home6 .hihi nav ul li h2:hover{
+    color: red;
+}
+.home6 hr {
+    margin-top: -3rem;
+    margin-bottom: 0rem;
+    border: 0;
+    border-top: 3px solid #dc3545;
+    padding: 2px 3rem;
+    max-width: 7px;
+
+}
+/*home7*/
+.home7 {
+    background:black;
+    background-size: cover;
+    min-height: 100vh;
+}
+.home7 h3 {
+    text-align: center;
+    opacity: 0.7;
+    color: red;
+    margin-left: -2rem;
+}
+.home7 .a8 {
+    width: 20rem;
+    height: 23rem;
+    background: #f8f9fa;
+    margin-left: 11rem;
+    margin-top: 4rem;
+
+}
+.home7 .a9 {
+    width: 20rem;
+    height: 23rem;
+    background: #f8f9fa;
+    margin-left: 36rem;
+    margin-top: -23rem;
+
+}
+.home7 .a10 {
+    width: 20rem;
+    height: 23rem;
+    background: #f8f9fa;
+    margin-left: 61rem;
+    margin-top: -23rem;
+  
+}
+.home7 .a12 ul li{
+    margin-top: -5rem;
+    margin-left: 10rem;
+    font-family: 'Oswald', sans-serif;
+}
+.home7 .a12 ul li a:hover{
+    color: red;
+}
+.home7 .a13 ul li {
+    margin-left: 35rem;
+    margin-top: -3.5rem;
+    font-family: 'Oswald', sans-serif;
+}
+.home7 .a13 ul li a:hover{
+    color: red
+}
+.home7 .a14 ul li {
+    margin-left: 60rem;
+    margin-top: -3rem;
+    font-family: 'Oswald', sans-serif;
+}
+.home7 .a14 ul li a:hover{
+    color: red;
+}
+.home7 .a15 {
+    font-family: 'Oswald', sans-serif;
+    margin-top: -10rem;
+    margin-left: 12rem;
+}
+.home7 .a15 h4 {
+    font-size: 17px;
+}
+.home7 .a16 {
+    font-family: 'Oswald', sans-serif;
+    margin-top: -5.5rem;
+    margin-left: 37rem;
+}
+.home7 .a16 h4 {
+    font-size: 17px;
+}
+.home7 .a17 {
+    font-family: 'Oswald', sans-serif;
+    margin-top: -4.5rem;
+    margin-left: 62rem;
+}
+.home7 .a17 h4 {
+    font-size: 17px;
+}
+.home7 hr {
+    margin-top: 10rem;
+    margin-bottom: 0rem;
+    border: 0;
+    border-top: 4px solid #dc3545;
+    padding: 2px 3rem;
+    max-width: 90px;
+    margin-left: 41.3rem;
+
+}
